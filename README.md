@@ -1,6 +1,6 @@
 # ProjetGenieLogicielL2
 Projet de génie logiciel L2
-Groupe 1
+Groupe 1 -
 Membres : 
 Rémi BARASCUD /
 Noureddine-laud EBAMBA /
